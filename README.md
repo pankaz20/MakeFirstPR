@@ -2,8 +2,8 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/CodeTrophs/MakeFirstPR/main/images/makepr.png?token=AENINDNYWGTSPTK5R3EQ24DAEGULG" alt="hello" width="90" /></p>
 
 [![Issues](https://img.shields.io/github/issues/CodeTrophs/MakeFirstPR)](https://github.com/CodeTrophs/MakeFirstPR/issues)
-[![Forks](	https://img.shields.io/github/forks/CodeTrophs/MakeFirstPR)]
-[![Stars](https://img.shields.io/github/stars/CodeTrophs/MakeFirstPR)]
+![Forks](https://img.shields.io/github/forks/CodeTrophs/MakeFirstPR)
+![Stars](https://img.shields.io/github/stars/CodeTrophs/MakeFirstPR)
 [![Licenses](https://img.shields.io/github/license/CodeTrophs/MakeFirstPR)](https://github.com/CodeTrophs/MakeFirstPR/blob/main/LICENSE)
 
 ### ✨ Feel free to submit a pull request with your suggestions of MakeFirstPR🚀
