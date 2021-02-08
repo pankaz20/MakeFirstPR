@@ -14,14 +14,14 @@ This project aims to simplify and guide the way beginners make their first contr
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
-<p align="center"> <img src="https://raw.githubusercontent.com/CodeTrophs/MakeFirstPR/main/images/fork.png?token=AENINDPDN3PUXNBTJYXHFU3AEGR22" alt="hello" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/CodeTrophs/MakeFirstPR/main/images/fork.png?token=AENINDJB3I23D27OOHZ7E53AEGSUW" alt="hello" /> </p>
 
 
 ## Clone the repository
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
-<p align="center"> <img src="https://raw.githubusercontent.com/CodeTrophs/MakeFirstPR/main/images/code.png?token=AENINDMJWKBKPSPTWCAA2TLAEGR4Y" alt="hello" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/CodeTrophs/MakeFirstPR/main/images/code.png?token=AENINDIUIEVRA5KGWNW4YMDAEGSUG" alt="hello" /> </p>
 
 Open a terminal and run the following git command:
 
@@ -29,7 +29,7 @@ Open a terminal and run the following git command:
 git clone git@github.com:CodeTrophs/MakeFirstPR.git
 ```
 
-<p align="center"> <img src="https://github.com/CodeTrophs/MakeFirstPR/blob/main/images/copy.png" alt="hello" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/CodeTrophs/MakeFirstPR/main/images/copy.png?token=AENINDKSPA4WPAB446O454TAEGSUO" alt="hello" /> </p>
 
 ## Create a branch
 
@@ -86,10 +86,10 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
-<img style="float: right;" src="#" alt="create a pull request" />
+<img style="float: right;" src="https://raw.githubusercontent.com/CodeTrophs/MakeFirstPR/main/images/pull-request.png?token=AENINDMPOFUWK6T653FZ6JTAEGSVI" alt="create a pull request" />
 
 Now submit the pull request.
 
-<img style="float: right;" src="#" alt="submit pull request" />
+<img style="float: right;" src="https://raw.githubusercontent.com/CodeTrophs/MakeFirstPR/main/images/open-pr.png?token=AENINDPSKKJV4R4WCUATYYLAEGSVA" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
