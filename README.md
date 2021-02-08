@@ -1,9 +1,18 @@
 # MakeFirstPR
 
+<p align="center">
+  <a href="#">
+    <img src="public/eddie-jaoude.png" alt="Logo" width="90">
+</a>
+
+[![Issues](https://img.shields.io/github/issues/CodeTrophs/MakeFirstPR)](https://github.com/CodeTrophs/MakeFirstPR/issues)
+[![Forks](	https://img.shields.io/github/forks/CodeTrophs/MakeFirstPR)]
+[![Stars](https://img.shields.io/github/stars/CodeTrophs/MakeFirstPR)]
+[![Licenses](https://img.shields.io/github/license/CodeTrophs/MakeFirstPR)](https://github.com/CodeTrophs/MakeFirstPR/blob/main/LICENSE)
+
 ### ✨ Feel free to submit a pull request with your suggestions of MakeFirstPR🚀
 
 ## First Contributions
-
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
