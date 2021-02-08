@@ -1,9 +1,5 @@
-# MakeFirstPR
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/CodeTrophs/MakeFirstPR/main/images/makepr.png?token=AENINDKUQR5ON6DO62GW4S3AEGUIM">
-    <img src="public/eddie-jaoude.png" alt="Logo" width="90">
-</a>
+<h1 align="center">Make First PR</h1>
+<p align="center"> <img src="https://raw.githubusercontent.com/CodeTrophs/MakeFirstPR/main/images/makepr.png?token=AENINDNYWGTSPTK5R3EQ24DAEGULG" alt="hello" width="90" /></p>
 
 [![Issues](https://img.shields.io/github/issues/CodeTrophs/MakeFirstPR)](https://github.com/CodeTrophs/MakeFirstPR/issues)
 [![Forks](	https://img.shields.io/github/forks/CodeTrophs/MakeFirstPR)]
