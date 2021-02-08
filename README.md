@@ -11,24 +11,25 @@ This project aims to simplify and guide the way beginners make their first contr
 
 ## Fork this repository
 
-<img align="right" width="300" src="#" alt="fork this repository" />
-
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
-## Clone the repository
+<p align="center"> <img src="https://raw.githubusercontent.com/CodeTrophs/MakeFirstPR/main/images/fork.png?token=AENINDPDN3PUXNBTJYXHFU3AEGR22" alt="hello" /> </p>
 
-<img align="right" width="300" src="#" alt="clone this repository" />
+
+## Clone the repository
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
-Open a terminal and run the following git command:
+<p align="center"> <img src="https://raw.githubusercontent.com/CodeTrophs/MakeFirstPR/main/images/code.png?token=AENINDMJWKBKPSPTWCAA2TLAEGR4Y" alt="hello" /> </p>
 
-<img align="right" width="300" src="#" alt="copy URL to clipboard" />
+Open a terminal and run the following git command:
 
 ```
 git clone git@github.com:CodeTrophs/MakeFirstPR.git
 ```
+
+<p align="center"> <img src="https://github.com/CodeTrophs/MakeFirstPR/blob/main/images/copy.png" alt="hello" /> </p>
 
 ## Create a branch
 
