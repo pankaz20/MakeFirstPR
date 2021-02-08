@@ -51,3 +51,44 @@ git checkout -b aryasoni98
 ```
 
 (The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+
+## Make necessary changes and commit those changes
+
+If you go to the project directory and execute the command `git status`, you'll see there are changes.
+
+Add those changes to the branch you just created using the `git add` command:
+
+```
+git add file-name
+```
+
+Now commit those changes using the `git commit` command:
+
+```
+git commit -m "Add <file-name>"
+```
+
+replacing `<file-name>` with your name.
+
+## Push changes to GitHub
+
+Push your changes using the command `git push`:
+
+```
+git push origin <add-your-branch-name>
+```
+
+replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+
+
+## Submit your changes for review
+
+If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+
+<img style="float: right;" src="#" alt="create a pull request" />
+
+Now submit the pull request.
+
+<img style="float: right;" src="#" alt="submit pull request" />
+
+Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
