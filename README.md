@@ -1,5 +1,5 @@
 <h1 align="center">Make First PR</h1>
-<p align="center"> <img src="https://raw.githubusercontent.com/CodeTrophs/MakeFirstPR/main/images/makepr.png?token=AENINDNYWGTSPTK5R3EQ24DAEGULG" alt="hello" width="90" /></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/CodeTrophs/MakeFirstPR/main/images/makepr.png?token=AENINDPXR5236L7PD5V62O3AEJIIA" alt="hello" width="90" /></p>
 
 [![Issues](https://img.shields.io/github/issues/CodeTrophs/MakeFirstPR)](https://github.com/CodeTrophs/MakeFirstPR/issues)
 ![Forks](https://img.shields.io/github/forks/CodeTrophs/MakeFirstPR)
