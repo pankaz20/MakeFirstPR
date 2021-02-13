@@ -16,15 +16,15 @@ This project aims to simplify and guide the way beginners make their first contr
 
 #### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
 
-## Fork this repository
+## Fork this repository.
 
-Fork this repository by clicking on the fork button on the top of this page.
+Fork this repository by clicking the fork button at the top of this page.
 This will create a copy of this repository in your account.
 
 <p align="center"> <img src="./images/fork.png" alt="hello" /> </p>
 
 
-## Clone the repository
+## Clone the repository!
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
