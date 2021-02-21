@@ -6,7 +6,7 @@
 ![Stars](https://img.shields.io/github/stars/CodeTrophs/MakeFirstPR)
 [![Licenses](https://img.shields.io/github/license/CodeTrophs/MakeFirstPR)](https://github.com/CodeTrophs/MakeFirstPR/blob/main/LICENSE)
 
-### ✨ Feel free to submit a pull request with your suggestions of MakeFirstPR🚀
+### ✨ Feel free to submit a pull request with your suggestions of Make First PR 🚀
 
 ## First Contributions
 
