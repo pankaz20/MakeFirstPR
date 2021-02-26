@@ -33,7 +33,7 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 Open a terminal and run the following git command:
 
 ```
-git clone https://github.com/replace_by_your_username/MakeFirstPR.git
+git clone git@github.com:CodeTrophs/MakeFirstPR.git
 ```
 
 <p align="center"> <img src="./images/copy.png" alt="hello" /> </p>
